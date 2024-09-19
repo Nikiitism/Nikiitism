@@ -1,8 +1,4 @@
 👋 Hi, I’m Nikita Meena
-🔭 I’m a final year undergraduate at IIT Dhanbad, exploring varied things...
-👀 I’m interested in Computer Science and low level programming
-
-👋 Hi, I’m Nikita Meena
 🔭 I’m a final-year undergraduate at IIT Dhanbad specializing in Computer Science with a strong focus on low-level programming and algorithm design.
 💡 Currently working on:
 Low-Level Programming: Proficient in C and C++ with experience in system-level development.
