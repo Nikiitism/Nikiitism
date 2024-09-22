@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-meena-603b4b24b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BVCOHCcL%2BQ06bqSp%2FJ0dDcA%3D%3D) 
 
 ## Github stats 📊
 
@@ -18,7 +18,7 @@
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Nikiitism&show_icons=true&hide_border=true&hide=issues&theme=radical" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikiitism&layout=compact&theme=radical&langs_count=6" /></a>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Nikiitism&theme=dark&hide_border=false)<br/>
+
   <br/>
 </details>
 
